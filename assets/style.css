@@ -15,7 +15,9 @@ body{
 
 #container{
     display: flex; /*transforma em elemento flexível*/
+    flex-wrap: wrap; /*jogar o 4 cartao para a linha de baixo*/
 }
+
 
 .cartao{
     margin: 1rem 1rem; /*espaço externo 1rem p/ todos os lados*/
