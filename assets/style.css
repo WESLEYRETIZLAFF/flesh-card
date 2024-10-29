@@ -10,7 +10,7 @@
 
 body{
     background: url(img/bg-desktop.webp);
-    font-family:"Bai Jamjuree" ;
+    font-family:var("Bai Jamjuree") ;
 }
 
 #container{
